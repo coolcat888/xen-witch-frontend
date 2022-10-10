@@ -197,17 +197,14 @@ function Page() {
   }, [minDonate, contract, address]);
   return (
     <div className="App">
-      <div className="big-text">https://twitter.com/BoxMrChen</div>
+      <div className="big-text">https://twitter.com/coolcat21329985</div>
       <div>
-        如有使用问题请加入SafeHouseDAO进行反馈，https://discord.gg/vqRrQBge8S
+        如有使用问题请加hodlbnb或微信公众号：五只小喵咪
       </div>
       <div className="big-text">Xen Crypto 批量工具</div>
       <div className="big-text">注意不要使用别人修改的版本，后果自负</div>
       <div>
-        源码Github: https://github.com/nishuzumi/xen-witch-frontend
-        <br />
-        源码CodeSandBox:
-        https://codesandbox.io/s/github/nishuzumi/xen-witch-frontend
+       
       </div>
       <br />
       <div className="center">
